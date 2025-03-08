@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/classesWithAttributes/classesWithAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/conditions/conditions.iml" filepath="$PROJECT_DIR$/javaHelloWorld/conditions/conditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/javaHelloWorld/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/inheritanceDemo/inheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaDemos.iml" filepath="$PROJECT_DIR$/.idea/javaDemos.iml" />
