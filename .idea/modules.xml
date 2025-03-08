@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/ReCapDemo 1/ReCapDemo 1.iml" filepath="$PROJECT_DIR$/javaHelloWorld/ReCapDemo 1/ReCapDemo 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" filepath="$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/classes/classes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/classes/classes.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/conditions/conditions.iml" filepath="$PROJECT_DIR$/javaHelloWorld/conditions/conditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/hypotenuse/hypotenuse.iml" filepath="$PROJECT_DIR$/javaHelloWorld/hypotenuse/hypotenuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/javaHelloWorld/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/inheritanceDemo/inheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaDemos.iml" filepath="$PROJECT_DIR$/.idea/javaDemos.iml" />
