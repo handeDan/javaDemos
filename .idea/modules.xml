@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/ReCapDemo 1/ReCapDemo 1.iml" filepath="$PROJECT_DIR$/javaHelloWorld/ReCapDemo 1/ReCapDemo 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/classes/classes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/conditions/conditions.iml" filepath="$PROJECT_DIR$/javaHelloWorld/conditions/conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/javaHelloWorld/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaDemos.iml" filepath="$PROJECT_DIR$/.idea/javaDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/methodOverLoading/methodOverLoading.iml" filepath="$PROJECT_DIR$/javaHelloWorld/methodOverLoading/methodOverLoading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/methods/methods.iml" filepath="$PROJECT_DIR$/javaHelloWorld/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/methods2/methods2.iml" filepath="$PROJECT_DIR$/javaHelloWorld/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/javaHelloWorld/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/javaHelloWorld/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/multiDimentionalArrayDemo/multiDimentionalArrayDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/multiDimentionalArrayDemo/multiDimentionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/reCapDemo 2/reCapDemo 2.iml" filepath="$PROJECT_DIR$/javaHelloWorld/reCapDemo 2/reCapDemo 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/reCapDemo_Classes/reCapDemo_Classes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/reCapDemo_Classes/reCapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/javaHelloWorld/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/scanner/scanner.iml" filepath="$PROJECT_DIR$/javaHelloWorld/scanner/scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/javaHelloWorld/sesliHarfler/sesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/variables/variables.iml" filepath="$PROJECT_DIR$/javaHelloWorld/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
