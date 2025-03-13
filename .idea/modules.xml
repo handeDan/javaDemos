@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/ReCapDemo 1/ReCapDemo 1.iml" filepath="$PROJECT_DIR$/javaHelloWorld/ReCapDemo 1/ReCapDemo 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/activity/activity.iml" filepath="$PROJECT_DIR$/javaHelloWorld/activity/activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/advancedCalculator/advancedCalculator.iml" filepath="$PROJECT_DIR$/javaHelloWorld/advancedCalculator/advancedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" filepath="$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/exponentNumber/armstrongNumber/armstrongNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/exponentNumber/armstrongNumber/armstrongNumber.iml" />
