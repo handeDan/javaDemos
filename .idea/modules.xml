@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/advancedCalculator/advancedCalculator.iml" filepath="$PROJECT_DIR$/javaHelloWorld/advancedCalculator/advancedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" filepath="$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/exponentNumber/armstrongNumber/armstrongNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/exponentNumber/armstrongNumber/armstrongNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/armstrongNumber/armstrongNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/armstrongNumber/armstrongNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/atmProject/atmProject.iml" filepath="$PROJECT_DIR$/javaHelloWorld/atmProject/atmProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/bodyMassIndex/bodyMassIndex.iml" filepath="$PROJECT_DIR$/javaHelloWorld/bodyMassIndex/bodyMassIndex.iml" />
@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/javaHelloWorld/dataTypes/dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/ebobEkok/ebobEkok.iml" filepath="$PROJECT_DIR$/javaHelloWorld/ebobEkok/ebobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/exponentNumber/exponentNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/exponentNumber/exponentNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/exponentNumber_recursive/exponentNumber_recursive.iml" filepath="$PROJECT_DIR$/javaHelloWorld/exponentNumber_recursive/exponentNumber_recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/factorial/factorial.iml" filepath="$PROJECT_DIR$/javaHelloWorld/factorial/factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
