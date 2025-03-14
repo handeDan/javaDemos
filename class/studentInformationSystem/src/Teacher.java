@@ -1,5 +1,3 @@
-package studentInformationSystem;
-
 public class Teacher {
     //instance variables:
     String name;

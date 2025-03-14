@@ -1,6 +1,4 @@
-import studentInformationSystem.Course;
-import studentInformationSystem.Student;
-import studentInformationSystem.Teacher;
+
 
 public class Main {
     public static void main(String[] args) {

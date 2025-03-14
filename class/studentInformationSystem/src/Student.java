@@ -1,4 +1,3 @@
-package studentInformationSystem;
 public class Student {
     //instance variables:
     String name,stuNo;

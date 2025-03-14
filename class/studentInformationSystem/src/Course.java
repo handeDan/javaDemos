@@ -1,5 +1,3 @@
-package studentInformationSystem;
-
 public class Course {
     //instance variables:
     Teacher courseTeacher;
