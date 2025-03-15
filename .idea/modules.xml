@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/exponentNumber_recursive/exponentNumber_recursive.iml" filepath="$PROJECT_DIR$/javaHelloWorld/exponentNumber_recursive/exponentNumber_recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/factorial/factorial.iml" filepath="$PROJECT_DIR$/javaHelloWorld/factorial/factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/frequency/frequency.iml" filepath="$PROJECT_DIR$/arrays/frequency/frequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" filepath="$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/harmonicMean/harmonicMean.iml" filepath="$PROJECT_DIR$/arrays/harmonicMean/harmonicMean.iml" />
