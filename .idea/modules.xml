@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" filepath="$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class/harmonicAverage/harmonicAverage.iml" filepath="$PROJECT_DIR$/class/harmonicAverage/harmonicAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/harmonicNumber/harmonicNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/harmonicNumber/harmonicNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/horoscope/horoscope.iml" filepath="$PROJECT_DIR$/javaHelloWorld/horoscope/horoscope.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/hypotenuse/hypotenuse.iml" filepath="$PROJECT_DIR$/javaHelloWorld/hypotenuse/hypotenuse.iml" />
