@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" filepath="$PROJECT_DIR$/javaHelloWorld/areaTriangle/areaTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arkadasSayilar/arkadasSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/armstrongNumber/armstrongNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/armstrongNumber/armstrongNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/arraysDemo/arraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/atmProject/atmProject.iml" filepath="$PROJECT_DIR$/javaHelloWorld/atmProject/atmProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/bodyMassIndex/bodyMassIndex.iml" filepath="$PROJECT_DIR$/javaHelloWorld/bodyMassIndex/bodyMassIndex.iml" />
@@ -28,7 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/javaHelloWorld/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" filepath="$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/class/harmonicAverage/harmonicAverage.iml" filepath="$PROJECT_DIR$/class/harmonicAverage/harmonicAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/harmonicMean/harmonicMean.iml" filepath="$PROJECT_DIR$/arrays/harmonicMean/harmonicMean.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/harmonicNumber/harmonicNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/harmonicNumber/harmonicNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/horoscope/horoscope.iml" filepath="$PROJECT_DIR$/javaHelloWorld/horoscope/horoscope.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/hypotenuse/hypotenuse.iml" filepath="$PROJECT_DIR$/javaHelloWorld/hypotenuse/hypotenuse.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/javaHelloWorld/leapYear/leapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/logIn/logIn.iml" filepath="$PROJECT_DIR$/javaHelloWorld/logIn/logIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/maxMin_array/maxMin_array.iml" filepath="$PROJECT_DIR$/arrays/maxMin_array/maxMin_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/methodOverLoading/methodOverLoading.iml" filepath="$PROJECT_DIR$/javaHelloWorld/methodOverLoading/methodOverLoading.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/methods/methods.iml" filepath="$PROJECT_DIR$/javaHelloWorld/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/methods2/methods2.iml" filepath="$PROJECT_DIR$/javaHelloWorld/methods2/methods2.iml" />
