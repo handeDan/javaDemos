@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/frequency/frequency.iml" filepath="$PROJECT_DIR$/arrays/frequency/frequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" filepath="$PROJECT_DIR$/javaHelloWorld/gradeAverage/gradeAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" filepath="$PROJECT_DIR$/javaHelloWorld/grocery/grocery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/guessingNumber/guessingNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/guessingNumber/guessingNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/harmonicMean/harmonicMean.iml" filepath="$PROJECT_DIR$/arrays/harmonicMean/harmonicMean.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/harmonicNumber/harmonicNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/harmonicNumber/harmonicNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/horoscope/horoscope.iml" filepath="$PROJECT_DIR$/javaHelloWorld/horoscope/horoscope.iml" />
