@@ -54,6 +54,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/multiDimentionalArrayDemo/multiDimentionalArrayDemo.iml" filepath="$PROJECT_DIR$/javaHelloWorld/multiDimentionalArrayDemo/multiDimentionalArrayDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/numbers/numbers.iml" filepath="$PROJECT_DIR$/javaHelloWorld/numbers/numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/palindromeNumber/palindromeNumber.iml" filepath="$PROJECT_DIR$/javaHelloWorld/palindromeNumber/palindromeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/palindromeWords/palindromeWords.iml" filepath="$PROJECT_DIR$/javaHelloWorld/palindromeWords/palindromeWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/pattern/pattern.iml" filepath="$PROJECT_DIR$/arrays/pattern/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/pattern_recursive/pattern_recursive.iml" filepath="$PROJECT_DIR$/javaHelloWorld/pattern_recursive/pattern_recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/powersOfNum/powersOfNum.iml" filepath="$PROJECT_DIR$/javaHelloWorld/powersOfNum/powersOfNum.iml" />
