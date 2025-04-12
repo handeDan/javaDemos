@@ -15,7 +15,7 @@ public class Main {
         Course[] courses = {maths, physics, chemistry};
 
         Calculate.calculateAverage(courses); //static
-    }
+
 
 
     // Static variables / methods : object'lere ait olmaktan çıkıp, class'lara ait olurlar.
@@ -28,8 +28,17 @@ public class Main {
     // ilgili class'ın instance variables'ına dokunmadan yapacağımız bir işlem varsa static olarak tanımlayabiliriz.
     // static methods sadece bulunduğu class'a bağlıdır, class'ın instance variables'ına değil!!
 
+// STATIC SCOPE
+        System.out.println("STARTED");
+    User u1 = new User("Hande"); // counter: +1
+    User u2 = new User("Nil"); // counter: +1
+    User u3 = new User("Hakan"); // counter: +1
 
+    System.out.println("The last counter : " + User.counter);
+    System.out.println("ENDED");
 
+    //static scopes : genelde static variables'a varsayılan bir değer atamak istediğimizde kullanılır.
+    // çok kullanılan bir yöntem değildir.
 
-
+    }
 }
